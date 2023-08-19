@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__
+
+# pytest cache
+.pytest_cache
+
+# Visual Studio Code settings
+.vscode/settings.json
+
+# Database files
+database/
+
+# Generated files
+files/
+
+# Compiled Python files
+*.pyc
+
+# Generated documentation
+models/documentation/
+
+# Test cache
+test/.pytest_cache
